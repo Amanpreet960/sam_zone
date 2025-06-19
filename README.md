@@ -1,4 +1,5 @@
 # sam_zone
 this is my first Git Respository
 <br>
-author = amanpreet kaur 
+author = amanpreet maan
+
